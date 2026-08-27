@@ -134,20 +134,6 @@ Those are the problems I find most interesting.
 
 ---
 
-## 🔭 Currently Exploring
-
-I'm continuously going deeper into:
-
-* Production-grade **Agentic AI architectures**
-* **Multi-agent orchestration**
-* LLM and agent **evaluation**
-* **AI observability**
-* Scalable **RAG / Graph RAG**
-* Real-time **voice and multimodal agents**
-* Cloud deployment and the engineering needed to take AI systems to production
-
----
-
 ## 🎓 Background
 
 I have a **BSc. in Computer Engineering** and a background that started with classical machine learning, deep learning and computer vision before moving deeper into LLMs, agentic systems and production AI.
